@@ -1,6 +1,6 @@
 {
   "name": "@gorth/structure",
-  "version": "2.2.6",
+  "version": "2.2.7",
   "description": "",
   "type": "module",
   "author": "Gorthenburg",
@@ -99,7 +99,7 @@
     "@better-auth/sso": "^1.7.2",
     "@better-auth/stripe": "^1.7.2",
     "@supabase/postgrest-js": "^2.112.4",
-    "@supabase/server": "^1.4.1",
+    "@supabase/server": "^1.5.2",
     "@supabase/ssr": "^0.12.5",
     "@supabase/supabase-js": "^2.112.4",
     "axios": "^1.20.0",
@@ -110,7 +110,7 @@
     "jose": "^6.2.10",
     "pg": "^8.23.0",
     "postgres": "^3.4.9",
-    "svix": "^2.1.0",
+    "svix": "^2.2.0",
     "uuid": "^14.0.2",
     "zod": "^4.5.4"
   },
